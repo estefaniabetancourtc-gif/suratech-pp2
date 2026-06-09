@@ -192,7 +192,7 @@ const INIT_P = [
   { id:'p2', name:'ProcOwner Engagement Cin',   color:'#156082', li:'#C5DCE8', da:'#0A3A50' },
   { id:'p3', name:'ProcOwner Loyalty Caro B',   color:'#A02B93', li:'#EAC4E6', da:'#641A5C' },
   { id:'p4', name:'Sin asignar',                color:'#888780', li:'#E8E6E0', da:'#444441' },
-  { id:'p5', name:'PO Juli Alemán',             color:'#BA7517', li:'#FAD99A', da:'#7A4D0E' },
+  { id:'p5', name:'PO',             color:'#BA7517', li:'#FAD99A', da:'#7A4D0E' },
   { id:'p6', name:'PO Mila',                    color:'#0F9ED5', li:'#C2E8F7', da:'#0A6A8F' },
   { id:'p7', name:'ProcOwner Onboarding Mauro', color:'#1D9E75', li:'#9FE1CB', da:'#0F6E56' },
   { id:'p8', name:'ProcOwner Evolutivos Pipe',  color:'#D85A30', li:'#F5C4B3', da:'#993C1D' },
